@@ -1,0 +1,17 @@
+{
+    "tokenflip": {
+        "config":{
+            "formapp": {
+                "title": "Configure Token Flip",
+                "add": "Add New Face",
+                "flip": "Flip Token"
+            }
+        },
+        "settings": {
+            "flipspeed": {
+                "name": "Flip Speed",
+                "hint": "How fast the tokens flip face. Default is 0.1."
+            }
+        }
+    }
+}

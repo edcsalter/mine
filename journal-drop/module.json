@@ -1,0 +1,42 @@
+{
+  "name": "journal-drop",
+  "title": "journal-drop",
+  "description": "desc",
+  "version": "0.2",
+  "author": "theripper93",
+  "authors": [
+      {
+          "name": "theripper93",
+          "email": "tsplab@gmail.com",
+          "url": "https://www.patreon.com/theripper93"
+      }
+  ],
+  "languages": [
+      {
+          "lang": "en",
+          "name": "English",
+          "path": "languages/en.json"
+      }
+  ],
+  "scripts": [
+      "./scripts/main.js",
+      "./scripts/config.js",
+      "./scripts/tooltip.js"
+  ],
+  "styles": [
+      "./styles/module.css"
+  ],
+  "packs": [
+  ],
+  "minimumCoreVersion": "0.8.6",
+  "compatibleCoreVersion": "0.8.9",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "socket":true,
+  "dependencies": [
+    {
+        "name": "lib-wrapper"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "tokenflip",
+  "title": "Token Flip",
+  "description": "Configurable multiple images and actors on the same token.",
+  "version": "0.2.1",
+  "author": "theripper93",
+  "authors": [
+      {
+          "name": "theripper93",
+          "email": "tsplab@gmail.com",
+          "url": "https://www.patreon.com/theripper93"
+      }
+  ],
+  "languages": [
+      {
+          "lang": "en",
+          "name": "English",
+          "path": "languages/en.json"
+      }
+  ],
+  "esmodules": [
+    "./scripts/main.js"
+  ],
+  "styles": [
+      "./styles/module.css"
+  ],
+  "packs": [
+  ],
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "dependencies": [
+    {
+        "name": "lib-wrapper"
+    }
+  ]
+}
